@@ -40,7 +40,7 @@ python train.py --corpus_name mainland --model chinese-macbert-large --learning_
 python inference.py --checkpoint_path checkpoint/mainland.chinese-macbert-large.0.14 --data_path data/mainland.0.test.csv
 ```
 
-5. Collect features and Combine with output probability.
+5. Collect features and combine with output probability.
 
 6. Go to pushingonreadability_traditional_ML-master folder.
 
