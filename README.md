@@ -17,7 +17,7 @@ RoBERTa: https://huggingface.co/hfl/chinese-roberta-wwm-ext<br>
 We use the learning rate of 2e-5 for all pretrained Model
 
 # How to Run
-Most of the code is based on https://github.com/brucewlee/pushingonreadability_traditional_ML
+Most of the code is based on https://github.com/yjang43/pushingonreadability_transformers
 
 1. Go to pushingonreadability_transformers-master folder
 
