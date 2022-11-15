@@ -20,7 +20,8 @@ We use the learning rate of 2e-5 for all pretrained Model
 Pushing on Text Readability Assessment: A Transformer Meets Handcrafted Linguistic Features<br>
 https://aclanthology.org/2021.emnlp-main.834v2.pdf
 
-Most of our code are modifed from this paper<br>
 Tools:<br>
 https://github.com/brucewlee/pushingonreadability_traditional_ML<br>
 https://github.com/yjang43/pushingonreadability_transformers<br>
+
+Most of our code are modifed from the above tools<br>
