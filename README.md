@@ -60,7 +60,6 @@ Pushing on Text Readability Assessment: A Transformer Meets Handcrafted Linguist
 https://aclanthology.org/2021.emnlp-main.834v2.pdf
 
 Tools:<br>
-https://github.com/brucewlee/pushingonreadability_traditional_ML<br>
-https://github.com/yjang43/pushingonreadability_transformers<br>
+https://github.com/brucewlee/lingfeat<br>
 
 Most of our code are modifed from the above tools<br>
