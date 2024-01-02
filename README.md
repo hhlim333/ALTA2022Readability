@@ -16,6 +16,10 @@ RoBERTa: https://huggingface.co/hfl/chinese-roberta-wwm-ext<br>
 
 We use the learning rate of 2e-5 for all pretrained Model
 
+## Demo on Google Colab
+In-domain Version : https://colab.research.google.com/drive/1iyC_RXy1Y_U-M7dpwsZO5j_-by09OWUQ?usp=sharing
+Cross-domain Version : https://colab.research.google.com/drive/1yCV8bL9z6EsTIjrX100iVhBSbMyiI3MG?usp=sharing
+
 # How to Run
 Most of the code is based on https://github.com/yjang43/pushingonreadability_transformers
 
